@@ -13,7 +13,7 @@
        the part of <some_file> beginning with "##"
    
 
- Version: 0.3
+ Version: 0.4
 
  Date: 18/11/2019
 
@@ -30,5 +30,5 @@ ___$ bash INSTALL.sh
 
  Uninstall 
 -----------
-___$ bash ~/.123/<NAME>/UNINSTALL.sh
+___$ bash ~/.123/sharpdoc/UNINSTALL.sh
 
